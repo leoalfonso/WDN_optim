@@ -1,0 +1,6 @@
+name: wdn_opt_env
+channels:
+  - conda-forge
+dependencies:
+  - wntr
+  - pymoo
